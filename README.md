@@ -9,4 +9,5 @@ https://vcu.mediaspace.kaltura.com/media/CMSC508+Group+28+Project+3/1_og1gxrvg
 URL to design video (the one prepared for this project):
 
 URL to GITHUB repository:
+https://github.com/Sola4610/CMSC508Project/tree/main
 
